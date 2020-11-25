@@ -1,0 +1,705 @@
+
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()
+oop_12_lab.Book
+year
+book_name
+author_name
+print_name
+amount_of_pages
+price
+type
+count
+get_ID
+aa
+nothing__just
+Void .ctor()
+Void .ctor(Int32, System.String, System.String, System.String, Int32, Int32, Int32, Boolean)
+aa
+Int32 get_ID()
+Void aa(Int32)
+Void nothing__just(Int32)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+System.String ToString()

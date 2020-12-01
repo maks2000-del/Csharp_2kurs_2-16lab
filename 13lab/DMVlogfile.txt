@@ -1,0 +1,75 @@
+Path: D:\lab\2 курс 1 семестр\стп моб сис\oop_13_lab\DMVlogfile.txt
+Name: DMVlogfile.txt
+Method: write
+Time: 25.11.2020 22:42:58
+Text: aaaaaaaa
+----------------------------
+Path: D:\lab\2 курс 1 семестр\стп моб сис\oop_13_lab\DMVlogfile.txt
+Name: DMVlogfile.txt
+Method: write
+Time: 25.11.2020 22:47:17
+Text: aaaaaaaa
+----------------------------
+Path: D:\lab\2 курс 1 семестр\стп моб сис\oop_13_lab\DMVlogfile.txt
+Name: DMVlogfile.txt
+Method: write
+Time: 25.11.2020 22:48:55
+Text: aaaaaaaa
+----------------------------
+
+
+Path: D:\lab\2 курс 1 семестр\стп моб сис\oop_13_lab\DMVlogfile.txt
+Name: DMVlogfile.txt
+Method: write
+Time: 01.12.2020 12:05:28
+Text: aaaaaaaa
+----------------------------
+Path: D:\lab\2 курс 1 семестр\стп моб сис\oop_13_lab\DMVlogfile.txt
+Name: DMVlogfile.txt
+Method: readFind
+Time: 01.12.2020 12:05:28
+----------------------------
+Path: D:\lab\2 курс 1 семестр\стп моб сис\oop_13_lab\DMVlogfile.txt
+Name: DMVlogfile.txt
+Method: write
+Time: 01.12.2020 12:05:43
+Text: aaaaaaaa
+----------------------------
+Path: D:\lab\2 курс 1 семестр\стп моб сис\oop_13_lab\DMVlogfile.txt
+Name: DMVlogfile.txt
+Method: readFind
+Time: 01.12.2020 12:05:43
+----------------------------
+Path: D:\lab\2 курс 1 семестр\стп моб сис\oop_13_lab\DMVlogfile.txt
+Name: DMVlogfile.txt
+Method: write
+Time: 01.12.2020 12:06:42
+Text: aaaaaaaa
+----------------------------
+Path: D:\lab\2 курс 1 семестр\стп моб сис\oop_13_lab\DMVlogfile.txt
+Name: DMVlogfile.txt
+Method: readFind
+Time: 01.12.2020 12:06:42
+----------------------------
+Path: D:\lab\2 курс 1 семестр\стп моб сис\oop_13_lab\DMVlogfile.txt
+Name: DMVlogfile.txt
+Method: write
+Time: 01.12.2020 12:10:50
+Text: aaaaaaaa
+----------------------------
+Path: D:\lab\2 курс 1 семестр\стп моб сис\oop_13_lab\DMVlogfile.txt
+Name: DMVlogfile.txt
+Method: readFind
+Time: 01.12.2020 12:10:50
+----------------------------
+Path: D:\lab\2 курс 1 семестр\стп моб сис\oop_13_lab\DMVlogfile.txt
+Name: DMVlogfile.txt
+Method: write
+Time: 01.12.2020 12:11:33
+Text: aaaaaaaa
+----------------------------
+Path: D:\lab\2 курс 1 семестр\стп моб сис\oop_13_lab\DMVlogfile.txt
+Name: DMVlogfile.txt
+Method: readFind
+Time: 01.12.2020 12:11:33
+----------------------------
